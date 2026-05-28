@@ -21,6 +21,8 @@ namespace Calculs
             while (choix != 0)
             {
 
+                int zero = 0;
+
                 val1 = rand.Next(1, 10);
                 val2 = rand.Next(1, 10);
 
